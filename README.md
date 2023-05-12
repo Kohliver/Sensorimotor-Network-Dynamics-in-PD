@@ -10,7 +10,7 @@ Preprocessing and TDE-HMMs are run in MATLAB using the following Toolboxes:
     
 Calulations of State-Specific Spectra, Burst Analysis, and Statistics calculated in Python:
     - all scripts can be run in the combined osl & osl-dynamics environment. 
-      Instructions for the environment set up can be found [here]([https://pages.github.com/](https://github.com/OHBA-analysis/osl-dynamics#installing-within-an-osl-environment) .
+      Instructions for the environment set up can be found [here](https://github.com/OHBA-analysis/osl-dynamics#installing-within-an-osl-environment).
 
 
 ## Contents
