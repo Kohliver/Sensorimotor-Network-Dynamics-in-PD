@@ -10,7 +10,7 @@ Preprocessing and TDE-HMMs were run in MATLAB 2020a using the following Toolboxe
     
 Calulations of State-Specific Spectra, Burst Analysis, and Statistics calculated in Python:  
     - all scripts can be run in the combined osl & osl-dynamics environment.  
-    Instructions for the environment set up can be found [here](https://github.com/OHBA-analysis/osl-dynamics#installing-within-an-osl-environment).
+      Instructions for the environment set up can be found [here](https://github.com/OHBA-analysis/osl-dynamics#installing-within-an-osl-environment).
 
 
 ## Contents
